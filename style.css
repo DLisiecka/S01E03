@@ -1,0 +1,20 @@
+.menu{
+	margin: 10px 20px 10px 0;
+	border: 4px #124E83 solid;
+	width:100px;
+	text-align:center;
+	background-color:#73A7D4;
+	color:#124E83;
+	cursor:pointer;
+}
+
+.menu_hidden{
+	width:100px;
+	display:none;
+	padding:0;
+}
+
+.menu_hidden a{
+	text-decoration:none;
+	color:#124E83;
+}
